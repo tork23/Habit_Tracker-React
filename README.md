@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 To install all the dependecies, run the below command
 
-### `npn i`
+### `npm i`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
